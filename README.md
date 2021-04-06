@@ -1,2 +1,2 @@
 # GRIP-TASK
-Task-1 Unsupervised machine learning
+Task-1 Supervised machine learning
